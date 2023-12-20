@@ -417,7 +417,8 @@
       "Librarytp1"
     ],
     "pinned_symbol_libs": [
-      "minimouse"
+      "minimouse",
+      "minimouselib"
     ]
   },
   "meta": {
